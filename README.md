@@ -203,7 +203,6 @@ python -m venv .venv
 
 3. Activate Virtual Environment
 
-Windows:
 
 .venv\Scripts\activate.bat
 
@@ -254,3 +253,7 @@ to access the interactive Swagger documentation.
 **Faizan Aziz**
 
 Data Science / Machine Learning
+
+## Dashboard Preview
+
+![Customer Churn Intelligence Dashboard](dashboard/powerbi_dashboard.png)
